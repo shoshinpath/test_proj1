@@ -1,1 +1,3 @@
-# test_proj1
+# Introduction
+
+This projects helps us understand git operations.
